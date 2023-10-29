@@ -1,4 +1,4 @@
-🚀 Live Site: https://gun-chat-zeta.vercel.app/
+🚀 Live Site:[ https://gun-chat-zeta.vercel.app/](https://gun-js-project.vercel.app/)
 
 ---
 
